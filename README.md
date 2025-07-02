@@ -3,7 +3,7 @@
 <h2>🧑‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directories</b>
-  - [Active Directory Project](https://github.com/Worldline1/Active-Directory-Project)
+  - [Active Directory Project (in Progress)](https://github.com/Worldline1/Active-Directory-Project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
