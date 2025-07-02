@@ -7,8 +7,8 @@
 
 <h2>📺 Other Projects</h2>
 
-- [Design Thinking Project](xh4G8iP9Qn)
-- [Grade System Project](https://github.com/Worldline1/Gestion-de-Notes)
+- [Design Thinking Project (Link will be updated soon)](xh4G8iP9Qn)
+- [Grade System Project (French)](https://github.com/Worldline1/Gestion-de-Notes)
 
 <h2> 🤳 Connect with me:</h2>
 
