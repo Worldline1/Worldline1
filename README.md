@@ -5,7 +5,7 @@
 - <b>Active Directories</b>
   - [Active Directory Project (in Progress)](https://github.com/Worldline1/Active-Directory-Project)
 
-<h2>📺 Other Projects</h2>
+<h2>📺 Academic Projects</h2>
 
 - [Design Thinking Project (Link will be updated soon)](xh4G8iP9Qn)
 - [Grade System Project (French)](https://github.com/Worldline1/Gestion-de-Notes)
